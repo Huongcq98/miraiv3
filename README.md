@@ -8,28 +8,28 @@
     ```
 
 3. Lệnh
-   ```sh
+    ```sh
     npm install fs-extra
     ```
-```sh
+    ```sh
     npm install axios
     ```
-```sh
+    ```sh
     npm install semver
     ```
-```sh
+    ```sh
     npm install chalk
     ```
-```sh
+    ```sh
     npm install @maihuybao/fca-unofficial
     ```
-```sh
+    ```sh
     npm install @miraipr0ject/assets
     ```
-```sh
+    ```sh
     npm install sequelize
     ```
-```sh
+    ```sh
     npm install sqlite3
     ```
 5. về cách sử dụng, edit, vận hành
