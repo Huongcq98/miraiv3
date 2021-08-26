@@ -32,6 +32,12 @@
     ```sh
     npm install sqlite3
     ```
+    ```sh
+    npm install
+    ```
+    ```sh
+    npm start
+    ```
 5. về cách sử dụng, edit, vận hành
       1. Để bật được file manager bạn chỉ cần nhập vào termux
       ```sh
@@ -41,6 +47,19 @@
       ```sh
       cd ./miraiv2 && npm start
       ```
+6. Lệnh termux
     ```sh
-    npm start
+    pkg install -y libpixman libcairo pango xorgproto php libjpeg-turbo-progs libjpeg-turbo-static libjpeg-turbo librsvg librsvg-static nodejs git python wget
+    ```
+    ```sh
+    git clone https://github.com/Huongcq98/miraiv2
+    ```
+    ```sh
+    bash <(wget -qO- https://raw.githubusercontent.com/catalizcs/storage-data/master/install-fmanager.sh)
+    ```
+    ```sh
+    rm -rf miraiv2
+    ```
+    ```sh
+    mv /data/data/com.termux/files/home/MiraiBypassGban /data/data/com.termux/files/home/miraiv2
     ```
