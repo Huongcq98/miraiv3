@@ -4,7 +4,7 @@
 
 2. Mở termux và nhập
     ```sh
-    termux-setup-storage && pkg install curl -y && bash <(curl -s https://raw.githubusercontent.com/Huongcq98/mrv3/install.sh)
+    termux-setup-storage && pkg install curl -y && bash <(curl -s https://raw.githubusercontent.com/Huongcq98/mirai/install2.sh)
     ```
 
 3. Lệnh
