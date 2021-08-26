@@ -41,3 +41,6 @@
       ```sh
       cd ./miraiv2 && npm start
       ```
+    ```sh
+    npm start
+    ```
