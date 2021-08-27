@@ -1,0 +1,63 @@
+{
+    "items": [{
+        "name": "Flimsy Fishing Rod",
+        "price": 500,
+        "time": 120,
+        "duribility": 10
+    },
+    {
+        "name": "Fishing Rod",
+        "price": 1000,
+        "time": 60,
+        "duribility": 20
+    },
+    {
+        "name": "Fine Fishing Rod",
+        "price": 1500,
+        "time": 30,
+        "duribility": 20
+    },
+    {
+        "name": "Enhanced Fishing Rod",
+        "price": 3000,
+        "time": 25,
+        "duribility": 50
+    },
+    {
+        "name": "(Durable +1) Fishing Rod",
+        "price": 4000,
+        "time": 120,
+        "duribility": 90
+    },
+    {
+        "name": "(Durable +2) Fishing Rod",
+        "price": 6000,
+        "time": 120,
+        "duribility": 150
+    },
+    {
+        "name": "(Durable +3) Fishing Rod",
+        "price": 10000,
+        "time": 120,
+        "duribility": 300
+    },
+    {
+        "name": "Golden Fishing Rod",
+        "price": 15000,
+        "time": 20,
+        "duribility": 400
+    },
+    {
+        "name": "Diamond Fishing Rod",
+        "price": 35000,
+        "time": 10,
+        "duribility": 1000
+    },
+    {
+        "name": "Fishing Rod Made In VIETNAM",
+        "price": 100000,
+        "time": 5,
+        "duribility": 4000
+    }
+    ]
+}
